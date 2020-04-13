@@ -34,7 +34,7 @@ namespace Assignment1_Sec4DevOps
 
             conn.Open();
 
-            queryTable = "INSERT into CLient (FullName, LoginID, Password, Address, City, State, Phone) values (@fullName, @loginID, @password, @address, @city, @state, @phone);";
+            queryTable = "INSERT into User (FullName, LoginID, Password, Address, City, State, Phone) values (@fullName, @loginID, @password, @address, @city, @state, @phone);";
 
             command = new SqlCommand(queryTable, conn);
 
