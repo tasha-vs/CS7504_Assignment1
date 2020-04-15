@@ -56,7 +56,7 @@
             <strong>User Registration</strong></p>
         <p>
             &nbsp;</p>
-        <table style="width: 54%; height: 352px; background-color: #CCCCFF; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: small;" border="1" id="registrationForm">
+        <table style="width: 54%; height: 352px; background-color: #99CCFF; font-family: 'Courier New', Courier, monospace; font-size: small;" border="1">
             <tr>
                 <td id="lblFullName" class="auto-style4"><strong>Full Name*:</strong></td>
                 <td class="auto-style3">
