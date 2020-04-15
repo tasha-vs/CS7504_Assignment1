@@ -53,7 +53,7 @@
         <div>
         </div>
         <p class="auto-style10">
-            <strong>User Registration</strong></p>
+            <strong>User Registration System</strong></p>
         <p>
             &nbsp;</p>
         <table style="width: 54%; height: 352px; background-color: #FFCCFF; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: x-small;" border="1" id="RegFormID">
